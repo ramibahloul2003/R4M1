@@ -63,24 +63,15 @@
   <img width="12"/>
   <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" height="40" alt="wireshark"/>
   <img width="12"/>
+  <img src="https://portswigger.net/content/images/logos/burp-suite.svg" height="40" alt="burpsuite"/>
+  <img width="12"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="nmap"/>
   <img width="12"/>
-  <div align="center">
-
-  <!-- BurpSuite (custom logo) -->
-  <img src="https://portswigger.net/burp/images/logo.svg" height="40" alt="burpsuite logo" />
-
-  <!-- Ghidra (simpleicons support) -->
-  <img src="https://cdn.simpleicons.org/ghidra/FF0000" height="40" alt="ghidra logo" />
-
-  <!-- Metasploit (custom logo) -->
-  <img src="https://www.metasploit.com/img/metasploit-logo.png" height="40" alt="metasploit logo" />
-
-</div>
-
-  
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Ghidra_logo.svg" height="40" alt="ghidra"/>
+  <img width="12"/>
+  <img src="https://www.metasploit.com/common/images/metasploit-logo.svg" height="40" alt="metasploit"/>
 </div>
 
 ###
+
 
