@@ -33,7 +33,7 @@
 ###
 
 <p align="left"># 👋 Hi, I'm Rami Bahloul<br><br>- 🔭 I’m working as a **Cybersecurity student & CTF player** at [ESTIN](https://www.estin.dz) and member of **CascRoot CTF team(https://www.linkedin.com/company/casc-root/)**.  <br>- 📚 I'm currently learning **Pentesting, Cryptography, OSINT, and Threat Intelligence**.  <br>- ⚡ In my free time I enjoy **playing football, working out, and contributing to open-source security projects**.  <br>- 🌍 Interested in **cyber defense, offensive security, and applying MITRE ATT&CK & NIST frameworks in real-world environments**.  <br><br>---<br>💡 *Always curious, always learning — cybersecurity is not just a field, it’s a passion.*</p>
-📫 How to reach me <r_bahloul@estin.dz >
+📫 How to reach me r_bahloul@estin.dz 
 
 ###
 
